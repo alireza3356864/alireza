@@ -1,0 +1,12 @@
+.header{
+    height:100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: royalblue;
+    margin-bottom: 10px;
+}
+
+.header-title{
+    text-align: center;
+}
