@@ -1,3 +1,6 @@
+body{
+     background-color: gray;
+}
 .header{
     height:100px;
     display: flex;
